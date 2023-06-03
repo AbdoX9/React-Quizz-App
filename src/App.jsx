@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path="/"  element={<Home />}/>
+      <Route path="/React-Quizz-App"  element={<Home />}/>
       <Route path="/answers"  element={<Answers />}/>
     </Routes>
     
